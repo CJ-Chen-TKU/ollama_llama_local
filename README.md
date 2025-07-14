@@ -47,7 +47,7 @@ ollama
 llama-index-llms-ollama
 
 Start the app:
-streamlit run app.py
+streamlit run ollama_llama_local.py
 
 Then open the URL (usually http://localhost:8501) in your browser.
 
